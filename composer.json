@@ -1,0 +1,12 @@
+{
+    "name": "christian/issue-30114",
+    "authors": [
+        {
+            "name": "Christian Flothmann",
+            "email": "christian.flothmann@sensiolabs.de"
+        }
+    ],
+    "require": {
+        "symfony/form": "^4.2"
+    }
+}
